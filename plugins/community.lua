@@ -14,4 +14,11 @@ return {
   { import = "astrocommunity.pack.yaml" },
 
   { import = "astrocommunity.editing-support.auto-save-nvim" },
+
+  { import = "astrocommunity.utility.noice-nvim" },
+
+  { import = "astrocommunity.completion.cmp-cmdline" },
+
+  { import = "astrocommunity.git.diffview-nvim." },
+  { import = "astrocommunity.git.blame-nvim" },
 }
