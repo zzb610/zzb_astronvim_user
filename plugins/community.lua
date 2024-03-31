@@ -11,5 +11,5 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.bash" },
-  { import = "astrocommunity.pack.ymal" },
+  { import = "astrocommunity.pack.yaml" },
 }
