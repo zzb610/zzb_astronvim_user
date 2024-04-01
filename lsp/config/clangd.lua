@@ -4,6 +4,6 @@ return {
   },
   cmd = {
     "clangd",
-    "--header-insertion=iwyu",
+    "--header-insertion=never",
   },
 }
