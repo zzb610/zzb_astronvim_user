@@ -12,6 +12,7 @@ return {
   { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.lua" },
 
   { import = "astrocommunity.editing-support.auto-save-nvim" },
 

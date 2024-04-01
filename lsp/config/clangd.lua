@@ -1,5 +1,9 @@
 return {
   capabilities = {
-     offsetEncoding = "utf-8",
+    offsetEncoding = "utf-8",
+  },
+  cmd = {
+    "clangd",
+    "--header-insertion=iwyu",
   },
 }
